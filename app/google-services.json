@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885192326635",
+    "firebase_url": "https://winchat-sadikul.firebaseio.com",
+    "project_id": "winchat-sadikul",
+    "storage_bucket": "winchat-sadikul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885192326635:android:e3500f88d78d3e0f",
+        "android_client_info": {
+          "package_name": "com.sadikul.winchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885192326635-21gngl6mdj44f3lrijjcm438vt5b27pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadikul.winchat",
+            "certificate_hash": "6c44ad0e5a62119d7a803c06b002990b921c5368"
+          }
+        },
+        {
+          "client_id": "885192326635-emlra42ukmna53o2kr48sd0n2avdgte4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VdKywPHuUPyhGM_hrkDWoYQgma0uGVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885192326635-emlra42ukmna53o2kr48sd0n2avdgte4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

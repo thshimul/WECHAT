@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#AD1457</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_signin">#fafafa</color>
+    <color name="signin_rippleEffectColor">#aaa</color>
+    <color name="login_solid_color">#fafafa</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="darker_grayOriginal">#aaa</color>
+    <color name="spots_dialog_color">@android:color/holo_purple</color>
+    <color name="loginActivityTextcolor">#212121</color>
+    <color name="signup_textcolor" >#212121</color>
+</resources>
